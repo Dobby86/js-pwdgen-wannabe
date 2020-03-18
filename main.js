@@ -17,7 +17,7 @@ cognomeUtente=prompt("inserire cognome");
 
 
 //chiedere colore preferito19
-var colorePreferito;
+var coloreUtente;
 //salviamo coloreUtente
 
 coloreUtente=prompt("inserire colore preferito");
