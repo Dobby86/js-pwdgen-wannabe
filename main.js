@@ -24,6 +24,6 @@ coloreUtente=prompt("inserire colore preferito");
 
 
 //diamo il risultato allo utente
-document.getElementById("password").innerHTML="ciao" + nomeUtente + cognomeUtente + coloreUtente ;
+document.getElementById("password").innerHTML="ciao" + nomeUtente + cognomeUtente + coloreUtente + 19;
 
 console.log("ciao marco!");
